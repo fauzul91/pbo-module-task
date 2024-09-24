@@ -1,0 +1,14 @@
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\bin\Debug\net8.0\Task1_PBOPraktikum_1063.exe
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\bin\Debug\net8.0\Task1_PBOPraktikum_1063.deps.json
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\bin\Debug\net8.0\Task1_PBOPraktikum_1063.runtimeconfig.json
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\bin\Debug\net8.0\Task1_PBOPraktikum_1063.dll
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\bin\Debug\net8.0\Task1_PBOPraktikum_1063.pdb
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\Task1_PBOPraktikum_1063.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\Task1_PBOPraktikum_1063.AssemblyInfoInputs.cache
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\Task1_PBOPraktikum_1063.AssemblyInfo.cs
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\Task1_PBOPraktikum_1063.csproj.CoreCompileInputs.cache
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\Task1_PBOPraktikum_1063.dll
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\refint\Task1_PBOPraktikum_1063.dll
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\Task1_PBOPraktikum_1063.pdb
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\Task1_PBOPraktikum_1063.genruntimeconfig.cache
+C:\Users\fauzu\source\repos\Task1_PBOPraktikum_1063\Task1_PBOPraktikum_1063\obj\Debug\net8.0\ref\Task1_PBOPraktikum_1063.dll
