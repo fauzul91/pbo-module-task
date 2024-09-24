@@ -26,6 +26,12 @@ public class Program
         buayaDarat.Suara();
 
         singaDarat.Mengaum();
+        singaDarat.InfoSinga();
+        Pembatas();
+        ularDarat.Merayap();
+        Pembatas();
+        Reptil reptil = new Buaya("Randy", 15, 3.5);
+        Console.WriteLine(reptil.Suara()); 
         Pembatas();
     }
 
@@ -51,7 +57,7 @@ public class Hewan
         return "Hewan ini bersuara";
     }
 
-    public void InfoHewan()
+    public virtual void InfoHewan()
     {
         Console.WriteLine($"Hewan ini bernama {Nama} dan berumur {Umur} tahun");
     }
@@ -69,6 +75,11 @@ public class Mamalia : Hewan
     public override string Suara()
     {
         return "Mamalia ini bersuara lucu";
+    }
+
+    public override void InfoHewan()
+    {
+        Console.WriteLine("");
     }
 }
 
@@ -101,6 +112,11 @@ public class Singa : Mamalia
     public override string Suara()
     {
         return "Singa ini bersuara sangat jantan dan menyeramkan";
+    }
+
+    public void InfoSinga()
+    {
+        Console.WriteLine($"Nama singa ini adalah {Nama}, Umur singa ini adalah {Umur}, dan Jumlah kaki dari singa ini {jumlahKaki}");
     }
 }
 
@@ -141,7 +157,7 @@ public class Buaya : Reptil
     }
     public override string Suara()
     {
-        return "Reptil ini bersuara menyeramkan";
+        return "Buaya ini bersuara menyeramkan";
     }
 }
 
@@ -154,7 +170,7 @@ public class KebunBinatang
         koleksiHewan.Add(hewan);
         Console.WriteLine($"Hewan {hewan.Nama} telah ditambahkan ke kebun binatang");
     }
-
+        
     public void DaftarHewan()
     {
         foreach (var hewan in koleksiHewan)
